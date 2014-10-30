@@ -1,0 +1,13 @@
+{
+    "name": "qiaodazhao",
+    "version": "0.0.1",
+    "author": "Pan Min <panminzzu@126.com>",
+    "scripts": {
+        "start": "node job51Helper.js"
+    },
+    "dependencies": {
+        "request": "*",
+        "cheerio": "*",
+        "querystring":"*"
+    }
+}
